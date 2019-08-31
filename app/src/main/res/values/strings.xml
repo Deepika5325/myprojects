@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="type_search">search</string>
+</resources>
